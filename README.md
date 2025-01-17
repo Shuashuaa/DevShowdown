@@ -1,7 +1,7 @@
 # Dev Showdown
 
 in progress...
-<!-- Dev Showdown is an app that brings the thrill of competition to coding. Choose your programming language, select your difficulty level, 
+<!-- Git Showdown/or/Dev Showdown/or/GitArtisans(feature - showdown)/or/Artisan/or/ArtisanShowdown/ is an app that brings the thrill of competition to coding. Choose your programming language, select your difficulty level, 
 and face off against other developers in real-time challenges. -->
 
 <!-- ## Falsification
